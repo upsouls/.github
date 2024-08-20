@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-
+## Hello👋
 ** Welcome to Upsouls Team GitHub **
-🌐 Creators of Pocket Up
--->
+<b>🌐 Creators of Pocket Up<b>
